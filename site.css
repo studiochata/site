@@ -1,0 +1,17 @@
+.body {
+	background-color: blue;
+	width: 50%;
+	margin: 10px auto;
+}
+
+.container p{
+	font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+a{
+    color: red;
+}
+
+a:hover {
+    color: green;
+}
